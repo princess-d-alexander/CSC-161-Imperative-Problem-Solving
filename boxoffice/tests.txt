@@ -1,0 +1,368 @@
+Script started on Sat Feb 4 15:44:56 2024
+[1m[7m%[27m[1m[0m                                                                                                      [0m[27m[24m[Jprincess@Princesss-MacBook-Pro CSC_161 % [K[?2004h./boxoffice[?2004l
+How many tickets do you intend to purchase?
+1
+Ticket 1:
+Where would you like to sit?:
+1. Main floor - middle section
+2. Main floor - sides
+3. Balcony
+0
+Invalid imput for location. Please select a number between 1 and 3.
+Where would you like to sit?:
+1. Main floor - middle section
+2. Main floor - sides
+3. Balcony
+4
+Invalid imput for location. Please select a number between 1 and 3.
+Where would you like to sit?:
+1. Main floor - middle section
+2. Main floor - sides
+3. Balcony
+1
+Enter the age of the ticket holder: 1
+Select show time:
+1. Matinee
+2. Evening
+1
+Ticket Details:
+Location: Main floor - middle section
+Age: 1
+Time: Matinee
+Price: $0.00
+
+Total cost for 1 tickets: $0.00
+[1m[7m%[27m[1m[0m                                                                                                          
+ 
+
+[0m[27m[24m[Jprincess@Princesss-MacBook-Pro CSC_161 % [K[?2004h./boxoffice[?2004l
+
+How many tickets do you intend to purchase?
+1 3
+Ticket 1:
+Where would you like to sit?:
+1. Main floor - middle section
+2. Main floor - sides
+3. Balcony
+1
+Enter the age of the ticket holder: 0
+Select show time:
+1. Matinee
+2. Evening
+1
+Ticket Details:
+Location: Main floor - middle section
+Age: 0
+Time: Matinee
+Price: $0.00
+Ticket 2:
+Where would you like to sit?:
+1. Main floor - middle section
+2. Main floor - sides
+3. Balcony
+2
+Enter the age of the ticket holder: 0
+Select show time:
+1. Matinee
+2. Evening
+2
+Ticket Details:
+Location: Main floor - sides
+Age: 0
+Time: Evening
+Price: $0.00
+Ticket 3:
+Where would you like to sit?:
+1. Main floor - middle section
+2. Main floor - sides
+3. Balcony
+3
+Enter the age of the ticket holder: 0
+Select show time:
+1. Matinee
+2. Evening
+1
+Ticket Details:
+Location: Balcony
+Age: 0
+Time: Matinee
+Price: $0.00
+
+Total cost for 3 tickets: $0.00
+[1m[7m%[27m[1m[0m                                                                                                          
+ 
+
+[0m[27m[24m[Jprincess@Princesss-MacBook-Pro CSC_161 % [K[?2004h./boxoffice[?2004l
+
+How many tickets do you intend to purchase?
+3
+Ticket 1:
+Where would you like to sit?:
+1. Main floor - middle section
+2. Main floor - sides
+3. Balcony
+1
+Enter the age of the ticket holder: 150
+Select show time:
+1. Matinee
+2. Evening
+1
+Ticket Details:
+Location: Main floor - middle section
+Age: 150
+Time: Matinee
+Price: $20.00
+Ticket 2:
+Where would you like to sit?:
+1. Main floor - middle section
+2. Main floor - sides
+3. Balcony
+2
+Enter the age of the ticket holder: 150
+Select show time:
+1. Matinee
+2. Evening
+2
+Ticket Details:
+Location: Main floor - sides
+Age: 150
+Time: Evening
+Price: $20.00
+Ticket 3:
+Where would you like to sit?:
+1. Main floor - middle section
+2. Main floor - sides
+3. Balcony
+3
+Enter the age of the ticket holder: 150
+Select show time:
+1. Matinee
+2. Evening
+1
+Ticket Details:
+Location: Balcony
+Age: 150
+Time: Matinee
+Price: $10.00
+
+Total cost for 3 tickets: $50.00
+[1m[7m%[27m[1m[0m                                                                                                          
+ 
+
+[0m[27m[24m[Jprincess@Princesss-MacBook-Pro CSC_161 % [K[?2004h./boxoffice[?2004l
+
+How many tickets do you intend to purchase?
+3
+Ticket 1:
+Where would you like to sit?:
+1. Main floor - middle section
+2. Main floor - sides
+3. Balcony
+1
+Enter the age of the ticket holder: 5
+Select show time:
+1. Matinee
+2. Evening
+1
+Ticket Details:
+Location: Main floor - middle section
+Age: 5
+Time: Matinee
+Price: $0.00
+Ticket 2:
+Where would you like to sit?:
+1. Main floor - middle section
+2. Main floor - sides
+3. Balcony
+2
+Enter the age of the ticket holder: 5
+Select show time:
+1. Matinee
+2. Evening
+1
+Ticket Details:
+Location: Main floor - sides
+Age: 5
+Time: Matinee
+Price: $0.00
+Ticket 3:
+Where would you like to sit?:
+1. Main floor - middle section
+2. Main floor - sides
+3. Balcony
+3
+Enter the age of the ticket holder: 5
+Select show time:
+1. Matinee
+2. Evening
+1
+Ticket Details:
+Location: Balcony
+Age: 5
+Time: Matinee
+Price: $0.00
+
+Total cost for 3 tickets: $0.00
+[1m[7m%[27m[1m[0m                                                                                                          
+ 
+
+[0m[27m[24m[Jprincess@Princesss-MacBook-Pro CSC_161 % [K[?2004h./boxoffice[?2004l
+
+How many tickets do you intend to purchase?
+3
+Ticket 1:
+Where would you like to sit?:
+1. Main floor - middle section
+2. Main floor - sides
+3. Balcony
+1
+Enter the age of the ticket holder: 10
+Select show time:
+1. Matinee
+2. Evening
+1
+Ticket Details:
+Location: Main floor - middle section
+Age: 10
+Time: Matinee
+Price: $20.00
+Ticket 2:
+Where would you like to sit?:
+1. Main floor - middle section
+2. Main floor - sides
+3. Balcony
+2
+Enter the age of the ticket holder: 10
+Select show time:
+1. Matinee
+2. Evening
+2
+Ticket Details:
+Location: Main floor - sides
+Age: 10
+Time: Evening
+Price: $20.00
+Ticket 3:
+Where would you like to sit?:
+1. Main floor - middle section
+2. Main floor - sides
+3. Balcony
+3
+Enter the age of the ticket holder: 10
+Select show time:
+1. Matinee
+2. Evening
+1
+Ticket Details:
+Location: Balcony
+Age: 10
+Time: Matinee
+Price: $10.00
+
+Total cost for 3 tickets: $50.00
+[1m[7m%[27m[1m[0m                                                                                                          
+ 
+
+[0m[27m[24m[Jprincess@Princesss-MacBook-Pro CSC_161 % [K[?2004h./boxoffice[?2004l
+
+How many tickets do you intend to purchase?
+3
+Ticket 1:
+Where would you like to sit?:
+1. Main floor - middle section
+2. Main floor - sides
+3. Balcony
+1
+Enter the age of the ticket holder: 55
+Select show time:
+1. Matinee
+2. Evening
+2
+Ticket Details:
+Location: Main floor - middle section
+Age: 55
+Time: Evening
+Price: $25.00
+Ticket 2:
+Where would you like to sit?:
+1. Main floor - middle section
+2. Main floor - sides
+3. Balcony
+2
+Enter the age of the ticket holder: 55
+Select show time:
+1. Matinee
+2. Evening
+1
+Ticket Details:
+Location: Main floor - sides
+Age: 55
+Time: Matinee
+Price: $15.00
+Ticket 3:
+Where would you like to sit?:
+1. Main floor - middle section
+2. Main floor - sides
+3. Balcony
+3
+Enter the age of the ticket holder: 55
+Select show time:
+1. Matinee
+2. Evening
+1
+Ticket Details:
+Location: Balcony
+Age: 55
+Time: Matinee
+Price: $10.00
+
+Total cost for 3 tickets: $50.00
+[1m[7m%[27m[1m[0m                                                                                                          
+ 
+
+[0m[27m[24m[Jprincess@Princesss-MacBook-Pro CSC_161 % [K[?2004h./boxoffice[?2004l
+
+How many tickets do you intend to purchase?
+1
+Ticket 1:
+Where would you like to sit?:
+1. Main floor - middle section
+2. Main floor - sides
+3. Balcony
+3
+Enter the age of the ticket holder: -1
+Invalid age. Please enter a valid age between 0 and 150.
+Enter the age of the ticket holder: -150
+Invalid age. Please enter a valid age between 0 and 150.
+Enter the age of the ticket holder: 151
+Invalid age. Please enter a valid age between 0 and 150.
+Enter the age of the ticket holder: 250
+Invalid age. Please enter a valid age between 0 and 150.
+Enter the age of the ticket holder: 10
+Select show time:
+1. Matinee
+2. Evening
+3
+Invalid input for time. Please select either Matinee or Evening.
+Select show time:
+1. Matinee
+2. Evening
+-1
+Invalid input for time. Please select either Matinee or Evening.
+Select show time:
+1. Matinee
+2. Evening
+7
+Invalid input for time. Please select either Matinee or Evening.
+Select show time:
+1. Matinee
+2. Evening
+2
+Ticket Details:
+Location: Balcony
+Age: 10
+Time: Evening
+Price: $15.00
+
+Total cost for 1 tickets: $15.00
+
