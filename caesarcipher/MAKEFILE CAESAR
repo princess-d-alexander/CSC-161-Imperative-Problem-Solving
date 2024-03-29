@@ -1,0 +1,29 @@
+# Compiler
+CC = clang
+
+# Source files
+SRC = caesarcipher.c
+
+# Object files
+OBJ = $(SRC:.c=.o)
+
+# Executable
+TARGET = caesarcipher
+
+# Phony targets
+.PHONY: all clean
+
+# Default target
+all: $(TARGET)
+
+# Build the executable
+$(TARGET): $(OBJ)
+	$(CC) -o $@ $^
+
+# Compile source files to object files
+%.o: %.c
+	$(CC) -c -o $@ $<
+
+# Clean target
+clean:
+	rm -f $(TARGET) $(OBJ)
